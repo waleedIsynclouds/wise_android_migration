@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lock_mac_example">aabbccdd</string>
+    <string name="hard_label">hard：</string>
+    <string name="soft_label">soft</string>
+    <string name="operation">操作</string>
+    <string name="device_type_1">1</string>
+    <!-- Added missing strings referenced in layouts -->
+    <string name="press_reset_add_firest_fragment">Press reset to add (first)</string>
+    <string name="next">Next</string>
+    <string name="close_to_lock_add_secone_fragment">Close to lock to add (second)</string>
+    <string name="start_add_second_fragment">Start add (second)</string>
+    <string name="add_device">Add device</string>
+    <string name="device_list">Device List</string>
+    <string name="key_list_header_title">Keys</string>
+
+    <!-- Common strings used in layouts -->
+    <string name="hello_blank_fragment">Hello Fragment</string>
+    <string name="previous">Previous</string>
+    <string name="openLock">Open Lock</string>
+    <string name="pass_key_hint">Enter password</string>
+    <string name="user_id_hint">User ID</string>
+    <string name="user_id">User ID</string>
+    <string name="start_adding">Start Adding</string>
+
+    <!-- Newly added strings reported missing -->
+    <string name="select_image_file">Select image file</string>
+    <string name="start_upgrade">Start Upgrade</string>
+    <string name="nav_header_desc">Navigation header description</string>
+    <string name="nav_header_title">Wiseman</string>
+    <string name="nav_header_subtitle">Device manager</string>
+</resources>

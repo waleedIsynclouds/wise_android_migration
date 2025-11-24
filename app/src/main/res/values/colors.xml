@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Added missing colors referenced in layouts -->
+    <color name="text_primary">#FF000000</color>
+    <color name="color_accent">#FF6200EE</color>
+    <!-- Aliases for expected theme/color resource names used by layouts -->
+    <color name="color_primary">#FF6200EE</color>
+    <color name="color_primary_dark">#FF3700B3</color>
+    <color name="color_tiny_green">#FF03DAC5</color>
+    <!-- Add camelCase aliases some layouts reference -->
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorTinyGreen">#FF03DAC5</color>
+</resources>
